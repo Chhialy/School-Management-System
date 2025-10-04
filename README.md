@@ -138,10 +138,7 @@ This project is licensed under the MIT License. See the `LICENSE` file if presen
 
 ---
 
-If you'd like, I can also:
 
-- Add a short README badge for CI or coverage
-- Create a `CONTRIBUTING.md` and issue templates
 
 ## 📧 Contact
 
