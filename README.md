@@ -147,9 +147,9 @@ For questions or support, please open an issue on GitHub.
 ## 🙏 Acknowledgments
 
 - The team:
-    Shann Neil O. Estabillo
-    Vireak La
-    Chhialy Klo
+    Shann Neil O. Estabillo,
+    Vireak La,
+    Chhialy Klo,
 - Next.js team for the amazing framework
 - MongoDB for the powerful database
 - Tailwind CSS for the utility-first CSS framework
